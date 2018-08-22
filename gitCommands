@@ -1,0 +1,7 @@
+Git Commands :-
+
+1.)git clone :
+	First go into the directory in which you want ot clone the git repository through cd command
+	now type the the following command:
+		git clone cloneURLeg:https://github.com/nipuntech10/hello-world1.git
+
